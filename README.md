@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @abhin6330
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning 
-- 💞️ I’m looking to collaborate 
+- 💞️ Data Analyst
 - 📫 How to reach me through mail
 
 
